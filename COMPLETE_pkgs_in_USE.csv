@@ -1,0 +1,65 @@
+Packages,Older_versions,does_it_appear_in_jamf_mac_apps,Latest version,Up_to_date_in_JAMF,coresponding_pkg_name
+AdobeAdobeCreativeCloud-AppleSilicon-6.4.0.361.pkg,,IN MacApps JAMF,,NO,Creative Cloud Desktop.app
+AdobeCreativeCloudCleanerTool-4.3.0.30.dmg,,NOT IN MacApps JAMF,4.3.0.337,NO,Creative Cloud Cleaner Tool.app
+Airtame-4.11.0.pkg,,NOT IN MacApps JAMF,4.12.0,NO,Airtame.app
+Apple Configurator-2.17.pkg,,NOT IN MacApps JAMF,2.17,NO,Apple Configurator.app
+SourceTree-4.2.8.pkg,,IN MacApps JAMF,4.2.10,YES,SourceTree.app
+Brave-129.1.70.126.dmg,,IN MacApps JAMF,,YES,Brave Browser.app
+charles-proxy-4.6.7.dmg,,NOT IN MacApps JAMF,,NO,Charles.app
+Chromium-131.0.6769.0.pkg,,NOT IN MacApps JAMF,133.0.6928.0,NO,Chromium.app
+dbeaver-ce-24.2.2-macos-aarch64-24.2.2.dmg,,NOT IN MacApps JAMF,24.3,NO,DBeaver.app
+DFU_Blaster-2.2.2112.dmg,,NOT IN MacApps JAMF,3.0.3076,NO,DFU Blaster.app
+Deezer-6.0.240.pkg,,NOT IN MacApps JAMF,6.0.280,NO,Deezer.app
+DisplayLink_Manager-1.10.3.pkg,,NOT IN MacApps JAMF,1.11,NO,DisplayLink Manager.app
+Figma-124.5.4.dmg,,IN MacApps JAMF,,YES,Figma.app
+Flux-42.2.dmg,,NOT IN MacApps JAMF,,NO,Flux.app
+GitHub Desktop-darwin-arm64-3.4.6.pkg,,IN MacApps JAMF,3.4.12,YES,GitHub Desktop.app
+BackupandSync-3.56.3802.7766.dmg,,NOT IN MacApps JAMF,,NO,Backup and Sync.app
+ChromeRemoteDesktop-130.0.6723-130.0.6723.14.pkg,,NOT IN MacApps JAMF,133.0.6922.1,NO,Chrome Remote Desktop Host Uninstaller.app
+GoogleChrome-129.0.6668.90.dmg,,IN MacApps JAMF,131.0.6778.205,YES,Google Chrome.app
+GoogleDrive-98.0.0.pkg,,IN MacApps JAMF,101.0.3,YES,Google Drive.app
+Hyper-3.4.1.dmg,,NOT IN MacApps JAMF,,NO,Hyper.app
+JamfCheck-2.1.1.dmg,,IN MacApps JAMF,2.2.0,YES,JamfCheck.app
+KeePassXC-2.7.9-arm64-2.7.9.dmg,,NOT IN MacApps JAMF,,NO,KeePassXC.app
+Keka-1.4.4.dmg,,IN MacApps JAMF,1.4.6,YES,Keka.app
+LogitechOptions-10.20.4.pkg,,NOT IN MacApps JAMF,10.22.14,NO,Logi Options.app
+Loom-0.256.2-arm64-0.256.2.dmg,,NOT IN MacApps JAMF,0.268.0,NO,Loom.app
+python_recommended_signed-3.12.1.80742.pkg,,NOT IN MacApps JAMF,3.13.1,NO,Python Launcher.app
+Microsoft_Excel_16.44.20121301_Installer.pkg,,NOT IN MacApps JAMF,16.92,NO,Microsoft Excel.app
+Miro-0.8.28.dmg,,IN MacApps JAMF,0.9.78,YES,Miro.app
+MunkiAdmin-1.8.1.dmg,,NOT IN MacApps JAMF,,NO,MunkiAdmin.app
+MySQLCommunityServer-8.0.39.dmg,,NOT IN MacApps JAMF,9.1.0,NO,MySQLWorkbench.app
+Obsidian-1.6.7.dmg,,IN MacApps JAMF,1.7.7,YES,Obsidian.app
+OktaVerify-9.23.0.2024.802.2021.pkg,,IN MacApps JAMF,9.27.0,YES,Okta Verify.app
+PPPC Utility-1.5.0.dmg,,IN MacApps JAMF,,YES,PPPC Utility.app
+Postman-arm64-11.9.0.dmg,,IN MacApps JAMF,11.23.3,YES,Postman.app
+Rancher Desktop-1.16.0.dmg,,IN MacApps JAMF,,YES,Rancher Desktop.app
+Recipe Robot-2.3.1.dmg,,NOT IN MacApps JAMF,,NO,Recipe Robot.app
+Rectangle-0.83.dmg,,IN MacApps JAMF,0.85,YES,Rectangle.app
+SentinelOne-24.2.2.7632.pkg,,,24.3.2,,SentinelOne Extensions.app
+sequel-pro-1.1.2.dmg,,NOT IN MacApps JAMF,,NO,Sequel Pro.app
+Shift-9.3.3-9.3.3.1096.dmg,,NOT IN MacApps JAMF,9.4.3,NO,Shift.app
+Slack-4.40.128.dmg,,IN MacApps JAMF,4.41.105,YES,Slack.app
+Spotify-arm64-1.2.47.364.dmg,,IN MacApps JAMF,1.2.53.438,YES,Spotify.app
+SublimeText4-4180.dmg,,IN MacApps JAMF,4189,YES,Sublime Text.app
+Threat-Dragon-ng-2.2.0.dmg,,NOT IN MacApps JAMF,,NO,Threat-Dragon-ng.app
+TIDAL.x64-2.38.5.dmg,,NOT IN MacApps JAMF,2.123.0,NO,TIDAL.app
+VLC-3.0.21.dmg,,NOT IN MacApps JAMF,3.0.4,NO,VLC.app
+VSCodium-1.94.1.pkg,,NOT IN MacApps JAMF,1.96.2.24355,NO,VSCodium.app
+Webex-44.8.0.30404.dmg,,NOT IN MacApps JAMF,44.12,NO,Webex.app
+YouTube Music-3.5.3.pkg,,NOT IN MacApps JAMF,3.7.1,NO,YouTube Music.app
+AndroidStudio-arm64-2024.2.dmg,,NOT IN MacApps JAMF,2024.2.1,NO,Android Studio.app
+Bitwarden-2024.9.0.pkg,,NOT IN MacApps JAMF,2024.12.0,NO,Bitwarden.app
+Sketch-101.dmg,,IN MacApps JAMF,101.6,YES,Sketch.app
+coconutBattery-3.9.17.pkg,,NOT IN MacApps JAMF,4.0.1,NO,coconutBattery.app
+CrowdStrikeFalcon-7.17.18604.0.pkg,,,7.20.0.0.,,Falcon.app
+Firefox-131.0.dmg,,IN MacApps JAMF,133.03,YES,Firefox.app
+GIMP-2.10.38.dmg,,NOT IN MacApps JAMF,2.10.38,NO,GIMP.app
+iTerm2-3.5.5.pkg,,NOT IN MacApps JAMF,3.5.10,NO,iTerm.app
+iMazing_Profile_Editor_1.9.2.304501-1.9.2.dmg,,NOT IN MacApps JAMF,,NO,iMazing.app
+JabraDirect-6.18.26101.dmg,,NOT IN MacApps JAMF,6.19.28801,NO,Jabra Direct.app
+Secretive-2.4.1.dmg,,NOT IN MacApps JAMF,,NO,Secretive.app
+SuspiciousPackage-4.5.dmg,,NOT IN MacApps JAMF,,NO,Suspicious Package.app
+Thunderbird-131.0.dmg,,IN MacApps JAMF,,NO,Thunderbird.app
+Visual Studio Code-1.94.1.dmg,,IN MacApps JAMF,1.96.2,YES,Visual Studio Code.app
+Zoom-6.2.3.40682.pkg,,IN MacApps JAMF,6.3.1,YES,zoom.us.app
